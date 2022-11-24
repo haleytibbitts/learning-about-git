@@ -255,6 +255,15 @@ html {
 
 /* setup end */
 
+nav ul li {
+    list-style: none;
+}
+
+nav a {
+    color: darkcyan;
+    text-decoration: none;
+}
+
 header {
     background-color: darkorchid;
     color: #fff;
