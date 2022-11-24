@@ -254,3 +254,9 @@ html {
 }
 
 /* setup end */
+
+header {
+    background-color: darkorchid;
+    color: #fff;
+    min-height: 30vh;
+}
