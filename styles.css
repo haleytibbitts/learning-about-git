@@ -276,5 +276,7 @@ main {
 }
 
 footer {
-    bgc: lavender;
+    background-color: orchid;
+    padding: 20px 0;
+    text-align: center;
 }
