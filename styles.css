@@ -269,3 +269,8 @@ header {
     color: #fff;
     min-height: 30vh;
 }
+
+main {
+    background-color: rebeccapurple;
+    color: #fff;
+}
